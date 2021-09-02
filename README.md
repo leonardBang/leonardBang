@@ -4,5 +4,5 @@
 
 - 🔭 I’m currently working on [Apache Flink](http://github.com/apache/flink/)
 - 👯 I’m looking to collaborate on [Flink CDC](http://github.com/ververica/flink-cdc-connectors)
-- 📫 You can reach me in [twitter](https://twitter.com/Leonardxbj)
+- 📫 You can reach me in [Twitter](https://twitter.com/Leonardxbj)
 - ⚡ Fun fact: NBA
